@@ -1,3 +1,14 @@
+# Über diesen Fork
+
+Dieser Fork soll das Verhalten des Helpers ändern, so dass sich stufenweise zuerst die Anzahl angezeigter richtiger Kombinationen nach dem Geschicklichkeitswert richtet und ab einer Weile die Richtigkeit der gezeigten Kombinationen vom Geschick abhängt.
+
+Beispiel: Zuerst werden immer nur die letzten zwei richtigen Kombinationen angezeigt, mit etwas mehr Geschicklichkeit dann drei usw. bis hin zu einem bestimmten Wert.
+Ab dort hängt es dann von der Geschicklichkeit ab, ob die gezeigte Richtung auch richtig ist.
+
+## Status
+
+Momentan ist nur die Idee dazu vorhanden. Ich werde mir den Quelltext dazu bald ansehen.
+
 # Verwendete Bibliotheken
 
 - Ikarus (Ninja-Intern)
